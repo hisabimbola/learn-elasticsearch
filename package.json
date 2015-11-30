@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hisabimbola/learn-elasticsearch/issues"
   },
-  "homepage": "https://github.com/hisabimbola/learn-elasticsearch#readme"
+  "homepage": "https://github.com/hisabimbola/learn-elasticsearch#readme",
+  "dependencies": {
+    "elasticsearch": "^10.0.0"
+  }
 }
