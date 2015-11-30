@@ -1,0 +1,19 @@
+{
+  "name": "learn-es",
+  "version": "1.0.0",
+  "description": "to learn elastic search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisabimbola/learn-elasticsearch.git"
+  },
+  "author": "Abimbola Idowu <abimbola2010@gmail.com> (http://hisabimbola.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hisabimbola/learn-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/hisabimbola/learn-elasticsearch#readme"
+}
